@@ -1,0 +1,1 @@
+This is the model used in the paper Bayesian Analysis of Spatio-Temporal Patterns in Colorectal Cancer Mortality in Chile: A Study Linking National Quality of Life and Mortality Data by Barría-Sandoval et al., from which all the results were obtained.
